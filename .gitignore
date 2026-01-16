@@ -1,7 +1,3 @@
-# Dataset folders (too large for GitHub)
-original-speech-dataset/
-denoised-speech-dataset/
-
 # Checkpoints and model files
 checkpoints/
 *.pt
