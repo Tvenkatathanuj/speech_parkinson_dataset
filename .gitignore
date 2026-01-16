@@ -1,0 +1,48 @@
+# Dataset folders (too large for GitHub)
+original-speech-dataset/
+denoised-speech-dataset/
+
+# Checkpoints and model files
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+logs/
+runs/
+tensorboard/
+
+# Data splits (optional - comment out if you want to include)
+data_splits.json
+
+# Temporary files
+*.tmp
+*.bak
